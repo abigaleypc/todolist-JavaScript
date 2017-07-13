@@ -1,0 +1,12 @@
+body {
+  font-family: 'monospace'
+}
+.lineThrough {
+  text-decoration: line-through;
+}
+.blink {
+  text-decoration: blink;
+}
+a {
+  cursor: pointer;
+}
